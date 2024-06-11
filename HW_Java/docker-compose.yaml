@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  auth-service:
+    build:
+      context: ./authservice
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    networks:
+      - microservices-network
+
+  ticket-order:
+    build:
+      context: ./ticketorder
+      dockerfile: Dockerfile
+    environment:
+      - AUTH_SERVICE_URL=http://auth-service:8888
+    ports:
+      - "8090:8090"
+    networks:
+      - microservices-network
+
+networks:
+  microservices-network:
+    driver: bridge

@@ -1,0 +1,12 @@
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/TicketorderApplication.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/client/AuthClient.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/config/FeignClientConfiguration.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/controller/OrderController.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/controller/Scheduler.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/controller/StationController.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/model/Order.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/model/Station.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/repository/OrderRepository.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/repository/StationRepository.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/service/OrderService.java
+/Users/liza_kiva/Documents/HW_Java/ticketorder/src/main/java/ru/hse/egorova/ticketorder/service/StationService.java

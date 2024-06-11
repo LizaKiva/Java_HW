@@ -1,0 +1,9 @@
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/AuthsirviceApplication.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/config/SecurityConfig.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/controller/AuthController.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/model/Session.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/model/User.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/repository/SessionRepository.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/repository/UserRepository.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/service/TokenService.java
+/Users/liza_kiva/Documents/HW_Java/authservice/src/main/java/ru/hse/egorova/authservice/service/UserService.java

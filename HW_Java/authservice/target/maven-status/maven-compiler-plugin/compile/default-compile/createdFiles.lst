@@ -1,0 +1,9 @@
+ru/hse/egorova/authservice/repository/UserRepository.class
+ru/hse/egorova/authservice/controller/AuthController.class
+ru/hse/egorova/authservice/repository/SessionRepository.class
+ru/hse/egorova/authservice/service/TokenService.class
+ru/hse/egorova/authservice/config/SecurityConfig.class
+ru/hse/egorova/authservice/model/Session.class
+ru/hse/egorova/authservice/model/User.class
+ru/hse/egorova/authservice/service/UserService.class
+ru/hse/egorova/authservice/AuthsirviceApplication.class

@@ -1,0 +1,12 @@
+ru/hse/egorova/ticketorder/TicketorderApplication.class
+ru/hse/egorova/ticketorder/controller/StationController.class
+ru/hse/egorova/ticketorder/controller/OrderController.class
+ru/hse/egorova/ticketorder/model/Order.class
+ru/hse/egorova/ticketorder/repository/StationRepository.class
+ru/hse/egorova/ticketorder/service/OrderService.class
+ru/hse/egorova/ticketorder/client/AuthClient.class
+ru/hse/egorova/ticketorder/config/FeignClientConfiguration.class
+ru/hse/egorova/ticketorder/repository/OrderRepository.class
+ru/hse/egorova/ticketorder/service/StationService.class
+ru/hse/egorova/ticketorder/model/Station.class
+ru/hse/egorova/ticketorder/controller/Scheduler.class
